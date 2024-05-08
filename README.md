@@ -7,11 +7,15 @@
 </p>
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinnian999&layout=compact&langs_count=8" />
-          <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=xinnian999" />
-    </div>
+<div style="display: flex; justify-content: center; align-items: center;gap: 20px">
+       
+<div>
+ <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinnian999&layout=compact&langs_count=8" />
+</div>
+<div>
+ <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=xinnian999" />
+</div>
+
 </div>
 
 
@@ -21,7 +25,7 @@
 
 
 
-### 🥱关于我
+### 关于我🥱
 - 99年来到这个世界
 - 国内北大清华等重点院校落榜生，著名电视剧、电影观众
 - 曾在优酷、爱奇艺、芒果TV等视频平台都充过会员
