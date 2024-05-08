@@ -15,6 +15,12 @@
 </div>
 
 
+<p align="center">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=xinnian999&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+
+
 ### 🥱关于我
 - 99年来到这个世界
 - 国内北大清华等重点院校落榜生，著名电视剧、电影观众
