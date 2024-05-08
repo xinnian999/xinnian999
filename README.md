@@ -9,12 +9,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center;gap: 20px">
        
-<div>
  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinnian999&layout=compact&langs_count=8" />
-</div>
-<div>
  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=xinnian999" />
-</div>
 
 </div>
 
