@@ -7,10 +7,4 @@
 </p>
 
 
-<p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=xinnian999&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-
-
 > About Me：[elin521.cn](https://elin521.cn/)
