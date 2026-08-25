@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=xinnian999&locale=zh_Hans)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xinnian999&locale=zh_Hans" alt="GitHub Streak" /></a>
 </p>
+
 
 > About Me：[elin521.cn](https://elin521.cn/)
